@@ -1,0 +1,8 @@
+Usuario = user1@laamistad.com
+Pasw = abc1234*1
+
+Usuario = user2@laamistad.com
+Pasw = abc1234*2
+
+Usuario = user3@laamistad.com
+Pasw = abc1234*3
